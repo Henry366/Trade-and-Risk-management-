@@ -4,9 +4,5 @@ A simple Python code that helps u split your lot size for partials the code only
 
 
 
+if you take a loss of 1% the next trade u will assume only 0.5% per trade until you have made at least 50% of the drawdown of the equity dip from the trade risking 1% of equity 
 
-Default risk 1%
-Drawdown Risk 0.5%
-If -1% next risk should be Drawdown Risk
-If -0.5% next risk stays Drawdown Risk
-If + % of 50% of the previous risk next risk should be the default risk
